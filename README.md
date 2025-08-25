@@ -47,3 +47,4 @@ else:
 <img width="376" height="124" alt="Screenshot 2025-08-25 103208" src="https://github.com/user-attachments/assets/33a5a54f-28b3-43b0-88d9-1acaa3eae313" />
 
 ## Result
+Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
