@@ -38,4 +38,12 @@ else:
 ```
 ## Output
 
+<img width="376" height="139" alt="Screenshot 2025-08-25 103127" src="https://github.com/user-attachments/assets/9fe9ef47-78dd-4115-af19-b13b492a5c57" />
+
+<img width="375" height="115" alt="Screenshot 2025-08-22 114541" src="https://github.com/user-attachments/assets/4f9a4e91-2dbc-4c3f-845e-b80aed83cced" />
+
+<img width="366" height="116" alt="Screenshot 2025-08-25 103245" src="https://github.com/user-attachments/assets/aff5d76a-0393-4339-b2c7-730bf8c8e5d5" />
+
+<img width="376" height="124" alt="Screenshot 2025-08-25 103208" src="https://github.com/user-attachments/assets/33a5a54f-28b3-43b0-88d9-1acaa3eae313" />
+
 ## Result
